@@ -1,4 +1,7 @@
 #!/usr/bin/python3
+#!/usr/bin/env bash
+# Bash script that connects to server using private key
 
 ssh -i ~/.ssh/school ubuntu@100.26.56.28
+
 
