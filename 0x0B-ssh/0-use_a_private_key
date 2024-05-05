@@ -1,4 +1,4 @@
 #!/usr/bin/python3
 
-ssh -i ~/.ssh/school@100.26.56.28
+ssh -i ~/.ssh/school ubuntu@100.26.56.28
 
